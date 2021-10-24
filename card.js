@@ -21,7 +21,7 @@ const languageQuestion = [
     message: "Which language you would like to use ?",
     choices: [
       {
-        name: `Portugês  (${chalk.hex('#ed8936').bold("PT")})`,
+        name: `Português  (${chalk.hex('#ed8936').bold("PT")})`,
         value: () => {
           console.log(mePT);
           prompt(questionsPT).then(answer => answer.action());
