@@ -6,7 +6,6 @@ const chalk = require("chalk");
 const inquirer = require("inquirer");
 const clear = require("clear");
 const open = require("open");
-const sw = require("star-wars-quotes");
 
 // Clear the terminal before showing the npx card
 clear()
@@ -44,7 +43,7 @@ const dataEN = {
   twitter: chalk.gray("https://twitter.com/") + chalk.white("ricardozamboni_"),
   npm: chalk.gray("https://npmjs.com/") + chalk.white("~ricardozamboni"),
   github: chalk.gray("https://github.com/") + chalk.white("Ricmaloy"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.white("ricardo-zamboni-3906471b3/"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.white("ricardo-zamboni-3906471b3"),
   web: chalk.white("https://ricardozamboni.vercel.app/"),
   npx: chalk.cyanBright("npx") + " " + chalk.white("ricardozamboni"),
 
