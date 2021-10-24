@@ -77,7 +77,7 @@ const questionsPT = [
       {
         name: "Hmmm acho que não, até mais.",
         value: () => {
-          console.log("Até logo, foi prazer te conhecer. 👋\n");
+          console.log("Até logo, foi um prazer te conhecer. 👋\n");
         }
       }
     ]
