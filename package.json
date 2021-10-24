@@ -1,11 +1,25 @@
 {
-  "name": "npxcard",
-  "version": "1.0.1",
-  "main": "index.js",
+  "name": "ricardozamboni",
+  "version": "1.0.2",
+  "main": "card.js",
   "license": "MIT",
-  "scripts": {
-    "dev": "nodemon card.js"
+  "bin": {
+    "ricardo": "./card.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricmaloy/npxcard"
+  },
+  "scripts": {
+    "dev": "nodemon card.js",
+    "test": "node card.js"
+  },
+  "keywords": [
+    "business card",
+    "npm card",
+    "npm",
+    "npx"
+  ],
   "dependencies": {
     "boxen": "^6.2.1",
     "chalk": "^4.1.2",
