@@ -2,7 +2,7 @@
   "author": "Ricardo Zamboni Silva",
   "license": "ISC",
   "name": "ricardozamboni",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card for Ricardo Zamboni (@_ricardozamboni_)",
   "main": "card.js",
   "bin": {
