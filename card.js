@@ -87,7 +87,7 @@ const questionsPT = [
 const dataEN = {
   name: chalk.bold.hex('#ed8936')("                  Ricardo Zamboni Silva"),
   handle: chalk.white("                    @_ricardozamboni_"),
-  work: `${chalk.white("Junior Front-end Developer at")} ${chalk.hex("#bf6a24").bold("Zup Innovation")}`,
+  work: `${chalk.white("Junior Front-end Developer at")} ${chalk.hex("#bf6a24").bold("Rocketseat")}`,
   twitter: chalk.gray("https://twitter.com/") + chalk.white("ricardozamboni_"),
   npm: chalk.gray("https://npmjs.com/") + chalk.white("~ricardozamboni"),
   github: chalk.gray("https://github.com/") + chalk.white("Ricmaloy"),
@@ -107,7 +107,7 @@ const dataEN = {
 const dataPT = {
   name: chalk.bold.hex('#ed8936')("                  Ricardo Zamboni Silva"),
   handle: chalk.white("                    @_ricardozamboni_"),
-  work: `${chalk.white("Desenvolvedor Front End Júnior na")} ${chalk.hex("#bf6a24").bold("Zup Innovation")}`,
+  work: `${chalk.white("Desenvolvedor Front End Júnior na")} ${chalk.hex("#bf6a24").bold("Rocketseat")}`,
   twitter: chalk.gray("https://twitter.com/") + chalk.white("ricardozamboni_"),
   npm: chalk.gray("https://npmjs.com/") + chalk.white("~ricardozamboni"),
   github: chalk.gray("https://github.com/") + chalk.white("Ricmaloy"),

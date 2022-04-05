@@ -6,7 +6,7 @@
   "description": "A personal card for Ricardo Zamboni (@_ricardozamboni_)",
   "main": "card.js",
   "bin": {
-    "carine": "./card.js"
+    "ricardo": "./card.js"
   },
   "repository": {
     "type": "git",
